@@ -3,3 +3,11 @@
    
 }
     
+h1 {
+    background-color: rgb(209, 201, 201);
+    padding-left: 5px;
+}
+
+.navbar {
+    background-color: rgb(209, 201, 201);
+}
